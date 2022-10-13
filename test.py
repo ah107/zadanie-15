@@ -1,1 +1,1 @@
-import function from main.py (a,b)
+from src/main import *
