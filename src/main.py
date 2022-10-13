@@ -1,8 +1,10 @@
 #include <iostream>
-{
-INT1=1;
-INT2=2;
-INT=$(($INT1+INT2));
-echo $INT;
-return 0;
+
+using namespace std; 
+
+int main() {
+  
+  int a=1,b=2;
+  cout << a+b; 
+  return 0;
 }
